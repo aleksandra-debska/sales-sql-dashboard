@@ -24,5 +24,3 @@ This project focuses on extracting Key Performance Indicators (KPIs) using SQL a
 * sales.sql - SQL script for data validation, revenue calculation, and performance tracking.
 * Superstore_Sales_Dashboard.pbix - Interactive Power BI dashboard file.
 * retail_sales_data.xlsx - Dataset used for the analysis.
-
-image_aeff7e.png – Power BI dashboard showing the visual sales analysis.
